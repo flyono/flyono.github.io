@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
+title: 飞鱼
+subtitle: 只会写看不懂的bug
 description: ''
 keywords:
-author: John Doe
+author: Flyone
 language: en
 timezone: ''
 
@@ -102,4 +102,6 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:flyono/flyono.github.io.git
+  branch: main
