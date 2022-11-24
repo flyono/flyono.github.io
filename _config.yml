@@ -5,15 +5,15 @@
 # Site
 title: 飞鱼
 subtitle: 只会写看不懂的bug
-description: ''
+description: '啦啦啦啦'
 keywords:
 author: Flyone
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.flyone.space
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,4 +104,4 @@ theme: butterfly
 deploy:
   type: git
   repo: git@github.com:flyono/flyono.github.io.git
-  branch: main
+  branch: public
