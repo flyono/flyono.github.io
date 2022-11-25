@@ -1,11 +1,14 @@
 ---
-title: Hello World
+title: 美化教程
+date: 2022年11月23日12:45:30
+updated: 2022年11月25日12:44:28
+tags: 使用教程
+description: 对个人博客的美化和学习....
+cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/wallhaven-e7jj6r_3840x1600.png
 ---
-欢迎来到 [Hexo](https://hexo.io/)! 这是你的第一篇文章。有关详细信息，请查看[文档](https://hexo.io/docs/)。如果您在使用 Hexo 时遇到任何问题，您可以在[故障排除](https://hexo.io/docs/troubleshooting.html)中找到答案，也可以在[GitHub](https://github.com/hexojs/hexo/issues) 上询问我。
+# Hexo的基本指令
 
 ## 快速入门
-
-![wallhaven-e7jj6r_3840x1600](https://cdn.jsdelivr.net/gh/flono/img/blog/wallhaven-e7jj6r_3840x1600.png)
 
 ### 创建新帖子
 
@@ -38,3 +41,12 @@ $ hexo deploy
 ```
 
 详细信息：[部署](https://hexo.io/docs/one-command-deployment.html)
+
+
+
+# Hexo 主题教程
+
+## Buffterfly 主题
+
+[Butterfly 安裝文檔(一) 快速開始 | Butterfly](https://butterfly.js.org/posts/21cfbf15/)
+

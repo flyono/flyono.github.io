@@ -29,15 +29,16 @@ code_word_wrap: false # 代码换行
 copy:
   enable: true
   copyright:
-    enable: false
-    limit_count: 50
+    enable: true
+    limit_count: 100
 
 # social settings (社交图标设置)
 # formal:
 #   icon: link || the description
 social:
   fab fa-github: https://github.com/flyono || Github
-  fas fa-envelope: 1508948470@qq.com || Email
+  fas fa-envelope: https://blog.flyone.space/404.html || 1508948470@qq.com
+  fa-brands fa-bilibili: https://space.bilibili.com/416610378?spm_id_from=333.1007.0.0 || bilibili
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -142,7 +143,7 @@ post_meta:
     date_type: created # created or updated or both 主頁文章日期是創建日或者更新日或都顯示
     date_format: date # date/relative 顯示日期還是相對日期
     categories: true # true or false 主頁是否顯示分類
-    tags: false # true or false 主頁是否顯示標籤
+    tags: true # true or false 主頁是否顯示標籤
     label: true # true or false 顯示描述性文字
   post:
     date_type: both # created or updated or both 文章頁日期是創建日或者更新日或都顯示
@@ -181,10 +182,10 @@ anchor:
 
 # toc (目錄)
 toc:
-  post: true
-  page: false
-  number: true
-  expand: false
+  post: true # 文章页是否显示 TOC
+  page: false # 普通页面是否显示 TOC
+  number: true # 是否显示章节数
+  expand: false # 是否展开 TOC
   style_simple: false # for post
 
 post_copyright:
@@ -205,7 +206,7 @@ reward:
     #   link:
     #   text: alipay
 
-# Post edit
+# Post edit文章编辑按钮
 # Easily browse and edit blog source code online.
 post_edit:
   enable: false
@@ -421,13 +422,13 @@ messenger:
   pageID:
   lang: zh_TW # Language en_US/zh_CN/zh_TW and so on
 
-# Footer Settings
+# Footer Settings 博客年份
 # --------------------------------------
 footer:
   owner:
     enable: true
-    since: 2020
-  custom_text:
+    since: 2022
+  custom_text: <a href="http://beian.miit.gov.cn"><span>备案号：渝ICP备2022010213号</span></a>
   copyright: true # Copyright of theme and framework
 
 # Analysis
@@ -519,10 +520,10 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+background: url(https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/background3.png)
 
 # Footer Background
-footer_bg: false
+footer_bg: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/footer.png
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -551,12 +552,12 @@ canvas_fluttering_ribbon:
 # canvas_nest
 # https://github.com/hustcc/canvas-nest.js
 canvas_nest:
-  enable: false
+  enable: true
   color: '0,0,255' #color of lines, default: '0,0,0'; RGB values: (R,G,B).(note: use ',' to separate.)
   opacity: 0.7 # the opacity of line (0~1), default: 0.5.
   zIndex: -1 # z-index property of the background, default: -1.
   count: 99 # the number of lines, default: 99.
-  mobile: false
+  mobile: true
 
 # Typewriter Effect (打字效果)
 # https://github.com/disjukr/activate-power-mode
@@ -574,8 +575,8 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: false
-  mobile: false
+  enable: true
+  mobile: true
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
@@ -594,10 +595,10 @@ display_mode: light
 
 # Beautify (美化頁面顯示)
 beautify:
-  enable: false
-  field: post # site/post
-  title-prefix-icon: # '\f0c1'
-  title-prefix-icon-color: # '#F47466'
+  enable: true
+  field: site # site/post
+  title-prefix-icon: '\f6d5'
+  title-prefix-icon-color: '#F47466'
 
 # Global font settings
 # Don't modify the following settings unless you know how they work (非必要不要修改)
@@ -610,8 +611,8 @@ font:
 # Font settings for the site title and site subtitle
 # 左上角網站名字 主頁居中網站名字
 blog_title_font:
-  font_link:
-  font-family:
+  font_link: https://fonts.googleapis.com/css?family=Titillium+Web&display=swap
+  font-family: Titillium Web, 'PingFang SC', 'Hiragino Sans GB', 'Microsoft JhengHei', 'Microsoft YaHei', sans-serif
 
 # The setting of divider icon (水平分隔線圖標設置)
 hr_icon:
@@ -621,7 +622,7 @@ hr_icon:
 
 # the subtitle on homepage (主頁subtitle)
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect (打字效果)
   effect: true
   # Effect Speed Options (打字效果速度參數)
@@ -631,18 +632,18 @@ subtitle:
   # loop (循環打字)
   loop: true
   # source 調用第三方服務
-  # source: false 關閉調用
+  # source: true 關閉調用
   # source: 1  調用一言網的一句話（簡體） https://hitokoto.cn/
   # source: 2  調用一句網（簡體） http://yijuzhan.com/
   # source: 3  調用今日詩詞（簡體） https://www.jinrishici.com/
   # subtitle 會先顯示 source , 再顯示 sub 的內容
-  source: false
+  source: 3
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
 
 # Loading Animation (加載動畫)
 preloader:
-  enable: false
+  enable: true
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
@@ -712,8 +713,8 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
-  publish_date:
+  enable: true
+  publish_date: 2022/11/25 00:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
