@@ -3,40 +3,41 @@
 # --------------------------------------
 
 menu:
-  # Home: / || fas fa-home
-  # Archives: /archives/ || fas fa-archive
-  # Tags: /tags/ || fas fa-tags
-  # Categories: /categories/ || fas fa-folder-open
-  # List||fas fa-list:
-  #   Music: /music/ || fas fa-music
-  #   Movie: /movies/ || fas fa-video
-  # Link: /link/ || fas fa-link
-  # About: /about/ || fas fa-heart
+  首页: / || fas fa-home
+  时间轴: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  清单||fas fa-list:
+    音乐: /music/ || fas fa-music
+    照片: /photo/ || fas fa-images
+    电影: /movies/ || fas fa-video
+  友链: /link/ || fas fa-link
+  关于: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
-
+# 代码高亮主题
 highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
-highlight_copy: true # copy button
+highlight_copy: true # 开启代码复制
 highlight_lang: true # show the code language
-highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
-highlight_height_limit: false # unit: px
-code_word_wrap: false
+highlight_shrink: false # true: 代码框不展开 需点击 '>' 打开/ false: 代码框展开，有>点击按钮 | none: 不显示>按钮
+highlight_height_limit: false # unit: px 代码高度限制
+code_word_wrap: false # 代码换行
 
 # copy settings
-# copyright: Add the copyright information after copied content (複製的內容後面加上版權信息)
+# copyright: Add the copyright information after copied content (复制的内容后面加上版权设置)
 copy:
   enable: true
   copyright:
     enable: false
     limit_count: 50
 
-# social settings (社交圖標設置)
+# social settings (社交图标设置)
 # formal:
 #   icon: link || the description
 social:
-  # fab fa-github: https://github.com/xxxxx || Github
-  # fas fa-envelope: mailto:xxxxxx@gmail.com || Email
+  fab fa-github: https://github.com/flyono || Github
+  fas fa-envelope: 1508948470@qq.com || Email
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -80,17 +81,17 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://i.loli.net/2021/02/24/5O1day2nriDzjSu.png
+  img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/wallhaven-4goy30_3840x2160.png
   effect: false
 
-# Disable all banner image
+# 关闭顶部图
 disable_top_img: false
 
-# The banner image of home page
-index_img:
+# 主页顶部图
+index_img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/wallhaven-kx9jpq_3840x1600.png
 
-# If the banner of page not setting, it will show the top_img
-default_top_img:
+# 如果没有顶部图设置，默认显示主页顶部图
+default_top_img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/wallhaven-kx9jpq_3840x1600.png
 
 # The banner image of archive page
 archive_img:
@@ -132,7 +133,7 @@ error_img:
 
 # A simple 404 page
 error_404:
-  enable: false
+  enable: true
   subtitle: 'Page Not Found'
   background: https://i.loli.net/2020/05/19/aKOcLiyPl2JQdFD.png
 

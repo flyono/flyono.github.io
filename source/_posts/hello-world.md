@@ -5,6 +5,8 @@ title: Hello World
 
 ## 快速入门
 
+![wallhaven-e7jj6r_3840x1600](https://cdn.jsdelivr.net/gh/flono/img/blog/wallhaven-e7jj6r_3840x1600.png)
+
 ### 创建新帖子
 
 ``` bash
