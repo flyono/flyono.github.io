@@ -13,7 +13,7 @@ cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/202
 
 # 文本
 
-**I want you to ponder**[^pɑːndər/ v. 仔细考虑，琢磨，沉思ˈ] **these four questions**
+**I want you to ponder** [^**ponder：****pɑːndər/ v.仔细考虑，琢磨，沉思**] **these four questions**
 
 **我希望你们思考以下四个问题**
 
@@ -21,7 +21,7 @@ cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/202
 
 **here is the first one**
 
-**第一个,**
+**第一个,** 
 
 ------
 
@@ -395,6 +395,3 @@ cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/202
 
 **在你生命中，“为什么”的疑问，将会促使你去做你该做的事**
 
-------
-
-[^pɑːndər/ v. 仔细考虑，琢磨，沉思ˈ]: 
