@@ -7,7 +7,9 @@ description: 英语演讲内容
 cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/20221126212621.png
 ---
 
-<iframe height=498 width=510 src="https://player.bilibili.com/player.html?bvid=BV19L4y137ga">
+<iframe height=800 width=510 src="https://player.bilibili.com/player.html?bvid=BV19L4y137ga">
+
+
 
 **I want you to ponder**[^pɑːndər/ v. 仔细考虑，琢磨，沉思ˈ] **these four questions**
 
