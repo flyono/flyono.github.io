@@ -1,6 +1,15 @@
-https://player.bilibili.com/player.html?bvid=BV19L4y137ga
+---
+title: 英语课演讲稿
+date: 2022年11月26日21:22:51
+tags: 学习
+categories: 英语
+description: 英语演讲内容
+cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/20221126212621.png
+---
 
-**I want you to ponder**ˈpɑːndər/ v. 仔细考虑，琢磨，沉思 **these four questions**
+<iframe height=498 width=510 src="https://player.bilibili.com/player.html?bvid=BV19L4y137ga">
+
+**I want you to ponder**[^pɑːndər/ v. 仔细考虑，琢磨，沉思ˈ] **these four questions**
 
 **我希望你们思考以下四个问题**
 
@@ -168,7 +177,7 @@ https://player.bilibili.com/player.html?bvid=BV19L4y137ga
 
 ------
 
-**you can grow immensely**ɪˈmensli  | adv. 极其，非常 **in the next few years** 
+**you can grow immensely**[^ɪˈmensli  | adv. 极其，非常 ]**in the next few years** 
 
 **在接下来的几年里，你会有很大的进步**
 
@@ -180,7 +189,7 @@ https://player.bilibili.com/player.html?bvid=BV19L4y137ga
 
 ------
 
-**you can build a financial**faɪˈnænʃ(ə)l/ **wall around your family nothing can get through**
+**you can build a financial**[^faɪˈnænʃ(ə)l/] **wall around your family nothing can get through**
 
 **你可以为你的家庭建立一道无懈可击的财富长城**
 
