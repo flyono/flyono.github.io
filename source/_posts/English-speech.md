@@ -1,7 +1,7 @@
 ---
 title: 英语课演讲稿
 date: 2022年11月26日21:22:51
-tags: 学习
+tags: 作业
 categories: 英语
 description: 英语演讲内容
 cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/20221126212621.png
@@ -9,8 +9,7 @@ cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/202
 
 # 视频 
 
-<iframe height=498 width=510 src="https://player.bilibili.com/player.html?bvid=BV19L4y137ga">
----
+<iframe height=582 width=800 src="https://player.bilibili.com/player.html?bvid=BV19L4y137ga"></iframe>
 
 # 文本
 
@@ -397,3 +396,5 @@ cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/202
 **在你生命中，“为什么”的疑问，将会促使你去做你该做的事**
 
 ------
+
+[^pɑːndər/ v. 仔细考虑，琢磨，沉思ˈ]: 
