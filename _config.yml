@@ -105,3 +105,7 @@ deploy:
   type: git
   repo: git@github.com:flyono/flyono.github.io.git
   branch: public
+# 防止插入重复的资源
+aplayer:
+  meting: true
+  asset_inject: false
