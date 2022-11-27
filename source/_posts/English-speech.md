@@ -13,6 +13,14 @@ cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/202
 
 # 文本
 
+## Why not why not try it bravely?
+
+**Hello everyone, the topic of my speech today is why not try to do one thing bravely**
+
+**大家好，我今天演讲的主题是为什么不尝试勇敢地做一件事**
+
+---
+
 **I want you to ponder** [^**ponder：****pɑːndər/ v.仔细考虑，琢磨，沉思**] **these four questions**
 
 **我希望你们思考以下四个问题**
