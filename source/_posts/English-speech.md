@@ -2,7 +2,7 @@
 title: 英语课演讲稿
 date: 2022年11月26日21:22:51
 tags: 作业
-categories: 英语
+categories: 学习
 description: 英语演讲内容
 cover: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/20221126212621.png
 ---

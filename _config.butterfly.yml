@@ -12,7 +12,8 @@ menu:
     照片: /photo/ || fas fa-images
     每日计划: /plan/ || fas fa-video
   友链: /link/ || fas fa-link
-  关于: /about/ || fas fa-heart
+  项目: /project/ || fa-solid fa-file
+    伙伴匹配系统: /friends/ || fa-sharp fa-solid fa-users
 
 # Code Blocks (代碼相關)
 # --------------------------------------
