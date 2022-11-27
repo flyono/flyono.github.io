@@ -11,9 +11,10 @@ menu:
     音乐: /music/ || fas fa-music
     照片: /photo/ || fas fa-images
     每日计划: /plan/ || fas fa-video
-  友链: /link/ || fas fa-link
-  项目: /project/ || fa-solid fa-file
+  项目|| fa-solid fa-file:
     伙伴匹配系统: /friends/ || fa-sharp fa-solid fa-users
+  友链: /link/ || fas fa-link
+  
 
 # Code Blocks (代碼相關)
 # --------------------------------------
