@@ -23,7 +23,7 @@ categories: 问题解决
 
 问题描述：
 
-![image-20221128142055982](C:/Users/luoyifei/AppData/Roaming/Typora/typora-user-images/image-20221128142055982.png)
+![image-20221128150219380](https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/image-20221128150219380.png)
 
 **400状态码**
 
