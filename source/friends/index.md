@@ -3,6 +3,20 @@ title: 伙伴匹配系统
 date: 2022-11-27 16:39:13
 ---
 
+# 源码地址
+
+暂无——未完成
+
+# 开发历程
+
+[伙伴匹配系统①](https://www.yuque.com/flyone/rab0z5/ie8bx0c02q46zfsv)		[伙伴匹配系统②](https://www.yuque.com/flyone/rab0z5/zg88pcp923ygoanc)		[伙伴匹配系统③](https://www.yuque.com/flyone/rab0z5/mdyix9l1gnddp3wx)		[伙伴匹配系统④](https://www.yuque.com/flyone/rab0z5/tog4fz9uh8pdmoa5)		[伙伴匹配系统⑤]()		[伙伴匹配系统⑥]()		
+
+伙伴匹配系统⑦
+
+# 问题及解决方法：
+
+[伙伴匹配系统问题及解决](https://blog.flyone.space/FlyFriend/)
+
 # 项目简介
 
 一个帮大家找到志同道合的伙伴的匹配系统(APP)风格，包括用户登录注册、更新用户、拓建相似用户、组队等功能。
@@ -30,11 +44,3 @@ date: 2022-11-27 16:39:13
 ---
 
 这个该项目基本覆盖了企业开发中常见的需求以及对应的解决方案，比如登录注册、批量数据导入、信息检索展示、定时任务、资源抢占等。并且涵盖了分布式、并发编程、锁、事务、缓存、性能优化、幂等性、数据一致性大数据、算法等后端程序员必须了解的知识与实践。
-
-# 源码地址
-
-暂无——未完成
-
-# 问题及解决方法：
-
-[伙伴匹配系统问题及解决](https://blog.flyone.space/FlyFriend/)
