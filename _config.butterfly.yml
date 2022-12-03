@@ -13,6 +13,7 @@ menu:
     每日计划: /plan/ || fas fa-video
   项目|| fa-solid fa-file:
     伙伴匹配系统: /friends/ || fa-sharp fa-solid fa-users
+    瑞吉外卖: /reggie/ || fa-sharp fa-solid fa-burger-soda
   友链: /link/ || fas fa-link
   
 
