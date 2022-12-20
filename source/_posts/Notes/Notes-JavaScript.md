@@ -1,7 +1,7 @@
 ---
 title: JavaScript(尚硅谷版)
 date: 2022年12月3日17:36:32
-tags: JavaScript-更新中...
+tags: Web
 categories: 前端笔记
 ---
 

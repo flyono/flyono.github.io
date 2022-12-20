@@ -1,7 +1,7 @@
 ---
 title: CSS(尚硅谷版)
 date: 2022年12月3日17:35:37
-tags: CSS
+tags: Web
 categories: 前端笔记
 ---
 
