@@ -1,6 +1,6 @@
 ---
 title: 英语口语
-date: 2022年12月19日19:57:24
+date: 2022年12月20日07:21:18
 tags: 考试
 categories: 学习
 description: 英语口语考试
@@ -117,7 +117,9 @@ There is, as the old saying goes, no rest for the wicked on a place like this, a
 
 # Paragraph 6
 
-None of us will ever forget our first winter, we were buried under five feet of snow from the December through March. While one storm after another blasted huge drifts up against the house and barn, we kept warming inside burning our own wood, eating our own apples and loving every minute of it.
+None of us will ever forget our first winter, we were buried under five feet of snow from the December through March.
+
+While one storm after another blasted huge drifts up against the house and barn, we kept warming inside burning our own wood, eating our own apples and loving every minute of it.
 
 ---
 
@@ -129,7 +131,13 @@ None of us will ever forget our first winter, we were buried under five feet of 
 
 # Paragraph 7
 
-When spring came, it brought two floods. First the river overflowed, covering much of our land for weeks. Then the growing season began, swamping us under wave after wave of produce. Our freezer filled up with cherries, raspberries, strawberries, asparagus, peas, beans and corn. Then our canned-goods shelves and cupboards began to grow with preserves, tomato juice, grape juice, plums, jams and jellies. Eventually, the basement floor disappeared under piles of potatoes, squash and pumpkins, and the barn began to fill with apples and pears. It was amazing.
+When spring came, it brought two floods. First the river overflowed, covering much of our land for weeks. 
+
+Then the growing season began, swamping us under wave after wave of produce. Our freezer filled up with cherries, raspberries, strawberries, asparagus, peas, beans and corn. 
+
+Then our canned-goods shelves and cupboards began to grow with preserves, tomato juice, grape juice, plums, jams and jellies. Eventually, the basement floor disappeared under piles of potatoes, squash and pumpkins, and the barn began to fill with apples and pears.
+
+It was amazing.
 
 ---
 
@@ -145,7 +153,13 @@ When spring came, it brought two floods. First the river overflowed, covering mu
 
 # Paragraph 8
 
-The next year, we grow even more food and managed to get through the winter on firewood that was mostly from our own trees and only 100 gallons of heating oil. At that point I began thinking seriously about quitting my job and starting to freelance. The timing was terrible. By then, Shawn and Amy, our oldest girls were attending expensive Ivy League Schools and we had only a few thousand dollars in the bank. Yet we kept coming back to the same question: will thereever be a better time? The answer decidedly, was no, and so – with my employer’s blessings and half years pay in accumulated benefits in my pocket –off I went.
+The next year, we grow even more food and managed to get through the winter on firewood that was mostly from our own trees and only 100 gallons of heating oil. 
+
+At that point I began thinking seriously about quitting my job and starting to freelance. The timing was terrible. By then, Shawn and Amy, our oldest girls were attending expensive Ivy League Schools and we had only a few thousand dollars in the bank. 
+
+Yet we kept coming back to the same question: will thereever be a better time? 
+
+The answer decidedly, was no, and so – with my employer’s blessings and half years pay in accumulated benefits in my pocket –off I went.
 
 ---
 
@@ -163,7 +177,9 @@ The next year, we grow even more food and managed to get through the winter on f
 
 # Paragraph 9
 
-There have been a few anxious moments since then, but on balance things have gone much better than we had any right to expect. For various stories of mine, I’ve crawled into black-bear dens for Sports Illustrated, hitched up dogsled racing teams for Smithsonian magazine, checked out the Lack Champlain “monster”for Science Digest, and canoed through the Boundary waters wilderness area of Minnesota for Destinations.
+There have been a few anxious moments since then, but on balance things have gone much better than we had any right to expect. 
+
+For various stories of mine, I’ve crawled into black-bear dens for Sports Illustrated, hitched up dogsled racing teams for Smithsonian magazine, checked out the Lack Champlain “monster”for Science Digest, and canoed through the Boundary waters wilderness area of Minnesota for Destinations.
 
 ---
 
@@ -175,9 +191,19 @@ There have been a few anxious moments since then, but on balance things have gon
 
 # Paragraph 10
 
-I’m not making anywhere near as much money as I did when I was employed full time,but now we don’t need as much either. I generate enough income to handle our $600-a-month mortgage payments plus the
+I’m not making anywhere near as much money as I did when I was employed full time,but now we don’t need as much either. 
 
-usualexpenses for a family like ours. That includes everything from music lessons and dental bills to car repairs and college costs. When it comes to insurance, we have a poor men’s major-medical policy.We have to pay the first 500 dollars of any medical feesfor each member of the family. It picks up 80% of the costs beyond that. Although we are stuck with paying minor expenses, our premium is low -Only 560 dollars a year -and we are covered against catastrophe. Aside from that and the policy on our two cars at $400 a year, we have no other insurance. But we are setting aside $2000 a year in an IRA.
+I generate enough income to handle our $600-a-month mortgage payments plus the usualexpenses for a family like ours. 
+
+That includes everything from music lessons and dental bills to car repairs and college costs. When it comes to insurance, we have a poor men’s major-medical policy.
+
+We have to pay the first 500 dollars of any medical feesfor each member of the family. 
+
+It picks up 80% of the costs beyond that. 
+
+Although we are stuck with paying minor expenses, our premium is low -Only 560 dollars a year -and we are covered against catastrophe. 
+
+Aside from that and the policy on our two cars at $400 a year, we have no other insurance. But we are setting aside $2000 a year in an IRA.
 
 ---
 
@@ -201,7 +227,13 @@ usualexpenses for a family like ours. That includes everything from music lesson
 
 # Paragraph 11
 
-We’ve been an able to make up the difference in income by cutting back without appreciably lowering our standard of living. We continue to dine out once or twice a month, but now we patronize local restaurants instead of more expensive places in the city. We still attend opera and ballet in Milwaukee but only a few times a year. We eat less meat, drink cheaper wine and see fewer movies. Extravagant Christmases are a memory, and we combine vacations with story assignments...
+We’ve been an able to make up the difference in income by cutting back without appreciably lowering our standard of living. 
+
+We continue to dine out once or twice a month, but now we patronize local restaurants instead of more expensive places in the city. 
+
+We still attend opera and ballet in Milwaukee but only a few times a year. We eat less meat, drink cheaper wine and see fewer movies.
+
+Extravagant Christmases are a memory, and we combine vacations with story assignments...
 
 ---
 
@@ -215,7 +247,15 @@ We’ve been an able to make up the difference in income by cutting back without
 
 # Paragraph 12
 
-I suspect not every who loves the countrywould be happy living the way we do. It takes a couple of special qualities. One is a tolerance for solitude.Because we are so busy and on such a tight budget, we don’t entertain much. During the growing season there is no time for socializing anyway. Jim and Emily are involved in school activities, but they too spend most of their time at home.
+I suspect not every who loves the countrywould be happy living the way we do. 
+
+It takes a couple of special qualities. One is a tolerance for solitude.
+
+Because we are so busy and on such a tight budget, we don’t entertain much. 
+
+During the growing season there is no time for socializing anyway. 
+
+Jim and Emily are involved in school activities, but they too spend most of their time at home.
 
 ---
 
@@ -231,7 +271,11 @@ I suspect not every who loves the countrywould be happy living the way we do. It
 
 # Paragraph 13
 
-The other requirement is energy - a lot of it. The way to make self-sufficiency work on a small scale is to resist the temptation to buy a tractor and other expensive laborsaving devices. Instead, you do the work yourself. The only machinery we own (not counting the lawn mower) is a little three-horsepower rotary cultivator and a 16-inch chain saw.
+The other requirement is energy - a lot of it. 
+
+The way to make self-sufficiency work on a small scale is to resist the temptation to buy a tractor and other expensive laborsaving devices. Instead, you do the work yourself. 
+
+The only machinery we own (not counting the lawn mower) is a little three-horsepower rotary cultivator and a 16-inch chain saw.
 
 ---
 
@@ -245,7 +289,15 @@ The other requirement is energy - a lot of it. The way to make self-sufficiency 
 
 # Paragraph 14
 
-How much longer we’ll have enough energy to stay on here is anybody’s guess -perhaps for quite a while, perhaps not. When the time comes, we will leave with a feeling of sorrow but also with a sense of pride at what we’ve been able to accomplish. We should make a fire profit on the sale of the place, too.We’ve invested about $35,000 of our own money in it, and we could just about double that if we sold today. But this is not a good time to sell. Once economic conditions improve, however, demand for farms like ours should be strong again.
+How much longer we’ll have enough energy to stay on here is anybody’s guess -perhaps for quite a while, perhaps not. When the time comes, we will leave with a feeling of sorrow but also with a sense of pride at what we’ve been able to accomplish. 
+
+We should make a fire profit on the sale of the place, too.
+
+We’ve invested about $35,000 of our own money in it, and we could just about double that if we sold today. 
+
+But this is not a good time to sell. 
+
+Once economic conditions improve, however, demand for farms like ours should be strong again.
 
 ---
 
@@ -263,7 +315,11 @@ How much longer we’ll have enough energy to stay on here is anybody’s guess 
 
 # Paragraph 15
 
-We didn’t move here primarily to earn money though. We came because we wanted to improve the quality of our lives.When I watch Emily collecting eggs in the evening, fishing with Jim on the river or enjoying an old-fashioned picnic in the orchard with the entire family, I know we’ve found just what we were looking for.
+We didn’t move here primarily to earn money though.
+
+We came because we wanted to improve the quality of our lives.
+
+When I watch Emily collecting eggs in the evening, fishing with Jim on the river or enjoying an old-fashioned picnic in the orchard with the entire family, I know we’ve found just what we were looking for.
 
 ---
 
