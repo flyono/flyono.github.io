@@ -81,21 +81,21 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/%E5%9B%BE%E6%A0%87.png
+favicon: 
 
 # Avatar (頭像)
 avatar:
-  img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/wallhaven-4goy30_3840x2160.png
+  img: https://cdn.jsdelivr.net/gh/flyono/Chart-bed@main/img/%E5%9B%BE%E6%A0%87.png
   effect: false
 
 # 关闭顶部图
 disable_top_img: false
 
 # 主页顶部图
-index_img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/wallhaven-kx9jpq_3840x1600.png
+index_img: https://cdn.jsdelivr.net/gh/flyono/Chart-bed@main/img/2560_1600.png
 
 # 如果没有顶部图设置，默认显示主页顶部图
-default_top_img: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/wallhaven-kx9jpq_3840x1600.png
+default_top_img: https://cdn.jsdelivr.net/gh/flyono/Chart-bed@main/img/wallhaven-kx9jpq_3840x1600.png
 
 # The banner image of archive page
 archive_img:
