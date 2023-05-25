@@ -3,6 +3,10 @@ title: SpringCloud
 cover: https://cdn.jsdelivr.net/gh/flyono/Chart-bed@main/img/2560_1600.png
 date: 2023-5-25 19:51:10
 type: "categories"
+
+
+
+
 ---
 
 # SpringCloud01
@@ -1047,7 +1051,7 @@ Nacos提供了namespace来实现环境隔离功能。
 
 就能在页面看到一个新的namespace：
 
-![image-20210714000522913](assets/image-20210714000522913.png)
+<img src="assets/image-20210714000522913.png" alt="image-20210714000522913" />
 
 
 
@@ -1109,7 +1113,7 @@ spring:
 
 Nacos和Eureka整体结构类似，服务注册、服务拉取、心跳等待，但是也存在一些差异：
 
-![image-20210714001728017](assets/image-20210714001728017.png)
+![image-20210714001728017](https://bed.flyone.space/%E7%AC%94%E8%AE%B0/image-20210714001728017.png)
 
 
 
