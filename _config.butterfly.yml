@@ -523,7 +523,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: url(https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/background3.png)
+background: url(https://bed.flyone.space/%E7%AC%94%E8%AE%B0/wallhaven-10qjqn_2560x1080.png)
 
 # Footer Background
 footer_bg: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/footer.png
