@@ -526,7 +526,7 @@ tag_ui: # 留空或 index
 background: url(https://bed.flyone.space/%E7%AC%94%E8%AE%B0/wallhaven-10qjqn_2560x1080.png)
 
 # Footer Background
-footer_bg: https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/2855/footer.png
+footer_bg: https://bed.flyone.space/%E7%AC%94%E8%AE%B0/wallhaven-10qjqn_2560x1080.png
 
 # the position of bottom right button/default unit: px (右下角按鈕距離底部的距離/默認單位為px)
 rightside-bottom:
@@ -578,16 +578,16 @@ fireworks:
 
 # Mouse click effects: Heart symbol (鼠標點擊效果: 愛心)
 click_heart:
-  enable: true
-  mobile: true
+  enable: false
+  mobile: false
 
 # Mouse click effects: words (鼠標點擊效果: 文字)
 ClickShowText:
-  enable: false
+  enable: true
   text:
-    # - I
-    # - LOVE
-    # - YOU
+    - Flyone
+    - 欢迎
+    - 您
   fontSize: 15px
   random: false
   mobile: false
