@@ -10,17 +10,15 @@ menu:
   清单||fas fa-list:
     音乐: /music/ || fas fa-music
     照片: /photo/ || fas fa-images
-    每日计划: /plan/ || fas fa-video
   项目||fa-solid fa-file:
     伙伴匹配系统: /friends/ || fa-sharp fa-solid fa-users
-    瑞吉外卖: /reggie/ || fa-solid fa-mug-hot
   友链: /link/ || fas fa-link
   
 
 # Code Blocks (代碼相關)
 # --------------------------------------
 # 代码高亮主题
-highlight_theme: light #  darker / pale night / light / ocean / mac / mac light / false
+highlight_theme: mac #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # 开启代码复制
 highlight_lang: true # show the code language
 highlight_shrink: false # true: 代码框不展开 需点击 '>' 打开/ false: 代码框展开，有>点击按钮 | none: 不显示>按钮
@@ -662,7 +660,7 @@ aside:
   hide: false
   button: true
   mobile: true # display on mobile
-  position: right # left or right
+  position: left # left or right
   display:
     archive: true
     tag: true
