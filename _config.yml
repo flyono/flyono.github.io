@@ -102,9 +102,9 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: git@github.com:flyono/flyono.github.io.git
-  branch: public
+  type: 'git'
+  repo: git@gitee.com:flyonee/blog.git
+  branch: main
 # 防止插入重复的资源
 aplayer:
   meting: true
