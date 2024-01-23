@@ -83,17 +83,17 @@ favicon:
 
 # Avatar (頭像)
 avatar:
-  img: https://cdn.jsdelivr.net/gh/flyono/Chart-bed@main/img/%E5%9B%BE%E6%A0%87.png
+  img: https://bed.flyone.space/%E7%AC%94%E8%AE%B0/QQ%E5%9B%BE%E7%89%8720210716180135.jpg
   effect: false
 
 # 关闭顶部图
 disable_top_img: false
 
 # 主页顶部图
-index_img: https://cdn.jsdelivr.net/gh/flyono/Chart-bed@main/img/2560_1600.png
+index_img: https://bed.flyone.space/%E7%AC%94%E8%AE%B0/dragon.png
 
 # 如果没有顶部图设置，默认显示主页顶部图
-default_top_img: https://cdn.jsdelivr.net/gh/flyono/Chart-bed@main/img/wallhaven-kx9jpq_3840x1600.png
+default_top_img: https://bed.flyone.space/%E7%AC%94%E8%AE%B0/dragon.png
 
 # The banner image of archive page
 archive_img:
@@ -126,12 +126,12 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    # - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - https://bed.flyone.space/%E7%AC%94%E8%AE%B0/wallhaven-yxgyyx_3840x2880.png
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  post_page: https://bed.flyone.space/%E7%AC%94%E8%AE%B0/wallhaven-yxgyyx_3840x2880.png
 
 # A simple 404 page
 error_404:
