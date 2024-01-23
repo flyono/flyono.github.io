@@ -10,8 +10,6 @@ menu:
   清单||fas fa-list:
     音乐: /music/ || fas fa-music
     照片: /photo/ || fas fa-images
-  项目||fa-solid fa-file:
-    伙伴匹配系统: /friends/ || fa-sharp fa-solid fa-users
   友链: /link/ || fas fa-link
   
 
@@ -213,7 +211,7 @@ post_edit:
   enable: true
   # url: https://github.com/user-name/repo-name/edit/branch-name/subdirectory-name/
   # For example: https://github.com/jerryc127/butterfly.js.org/edit/main/source/
-  url: 
+  url: https://github.com/flyono/flyono.github.io/blob/main/source
 
 # Related Articles
 related_post:
