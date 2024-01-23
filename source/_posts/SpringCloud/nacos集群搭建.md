@@ -1,8 +1,9 @@
 ---
 title: Nacos集群搭建教程
-cover: https://cdn.jsdelivr.net/gh/flyono/Chart-bed@main/img/2560_1600.png
 date: 2023-5-27 18:19:57
-type: "categories"
+updated: 2024-1-23 16:00:00
+categories: "教程"
+tags: "SpringCloud","Nacos"
 ---
 
 

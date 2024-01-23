@@ -1,8 +1,9 @@
 ---
 title: RabbitMQ基础教程
-cover: https://cdn.jsdelivr.net/gh/flyono/Chart-bed@main/img/2560_1600.png
 date: 2023-5-27 18:23:51
-type: "categories"
+updated: 2024-1-23 16:00:00
+categories: "教程"
+tags: "RabbitMQ","消息队列"
 ---
 
 

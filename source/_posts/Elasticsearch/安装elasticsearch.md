@@ -1,8 +1,8 @@
 ---
 title: 安装elasticsearch教程
-cover: https://cdn.jsdelivr.net/gh/flyono/Chart-bed@main/img/2560_1600.png
 date: 2023-5-27 18:27:16
-type: "categories"
+categories: "教程"
+tags: "ElasticSearch"
 ---
 
 
