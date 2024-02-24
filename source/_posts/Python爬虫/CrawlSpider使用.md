@@ -3,7 +3,9 @@ title: CrawlSpider
 date: 2024-2-24 17:00:00
 updated: 2024-2-24 17:00:00
 categories: "Python爬虫"
-tags: "CrawlSpider","教程"
+tags: 
+  - "CrawlSpider"
+  - "教程"
 ---
 
 # CrawlSpider
