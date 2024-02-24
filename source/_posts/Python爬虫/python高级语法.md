@@ -3,7 +3,9 @@ title: Python 高级
 date: 2024-2-24 17:00:00
 updated: 2024-2-24 17:00:00
 categories: "Python"
-tags: "Python","基础"
+tags: 
+  - "Python"
+  - "基础"
 ---
 
 ### 异常处理

@@ -3,7 +3,9 @@ title: requests高级
 date: 2024-2-24 17:00:00
 updated: 2024-2-24 17:00:00
 categories: "Python爬虫"
-tags: "Python","requests"
+tags: 
+  - "Python"
+  - "requests"
 ---
 
 # requests高级

@@ -3,7 +3,9 @@ title: 在Python中使用JS
 date: 2024-2-24 17:00:00
 updated: 2024-2-24 17:00:00
 categories: "逆向"
-tags: "JS逆向","教程"
+tags: 
+  - "JS逆向"
+  - "教程"
 ---
 
 # 环境安装

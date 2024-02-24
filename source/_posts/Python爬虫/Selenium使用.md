@@ -3,7 +3,9 @@ title: Selenium
 date: 2024-2-24 17:00:00
 updated: 2024-2-24 17:00:00
 categories: "Python爬虫"
-tags: "Python","selenium"
+tags: 
+  - "Python"
+  - "selenium"
 ---
 
 # 简介

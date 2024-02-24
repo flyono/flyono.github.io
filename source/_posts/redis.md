@@ -3,7 +3,10 @@ title: Redis基础
 date: 2024-2-24 17:00:00
 updated: 2024-2-24 17:00:00
 categories: "数据库"
-tags: "Redis","教程","Python"
+tags: 
+  - "Redis"
+  - "教程"
+  - "Python"
 ---
 
 ### redis基本使用

@@ -3,7 +3,10 @@ title: (1)Scrapy教学
 date: 2024-2-24 17:00:00
 updated: 2024-2-24 17:00:00
 categories: "Python爬虫"
-tags: "Python","框架","Scrapy"
+tags: 
+  - "Python"
+  - "框架"
+  - "Scrapy"
 ---
 
 ### 简介

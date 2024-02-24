@@ -3,7 +3,9 @@ title: Spring 高级50讲
 date: 2023-5-9 21:35:00
 updated: 2024-1-23 16:00:00
 categories: "教程"
-tags: "Spring","核心"
+tags: 
+  - "Spring"
+  - "核心"
 ---
 
 ## 容器与 bean

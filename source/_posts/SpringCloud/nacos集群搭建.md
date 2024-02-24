@@ -3,7 +3,9 @@ title: Nacos集群搭建教程
 date: 2023-5-27 18:19:57
 updated: 2024-1-23 16:00:00
 categories: "教程"
-tags: "SpringCloud","Nacos"
+tags: 
+  - "SpringCloud"
+  - "Nacos"
 ---
 
 

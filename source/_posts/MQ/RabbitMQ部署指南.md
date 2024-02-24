@@ -3,7 +3,9 @@ title: RabbitMQ 部署指南
 date: 2023-5-27 18:22:56
 updated: 2024-1-23 16:00:00
 categories: "教程"
-tags: "RabbitMQ","消息队列"
+tags: 
+  - "RabbitMQ"
+  - "消息队列"
 ---
 
 

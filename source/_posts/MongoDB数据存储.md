@@ -3,7 +3,9 @@ title: MongoDB基础
 date: 2024-2-24 17:00:00
 updated: 2024-2-24 17:00:00
 categories: "数据库"
-tags: "MongoDB","教程"
+tags: 
+  - "MongoDB"
+  - "教程"
 ---
 
 # MongoDB数据存储
