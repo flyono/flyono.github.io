@@ -23,41 +23,22 @@ tags:
 - 使用步骤：
 
   - 导包
-
-    - import execjs
-
   - 创建node对象
-
-    - ```node = execjs.get()
-      node = execjs.get()
-      ```
-
   - 编译js文件返回上下文ctx对象
-
-    - ```python
-      fp = open(filePath,encoding='utf-8')
-      ```
-
-    - ```python
-      ctx =  node.compile(fp.read())```
-      ```
-
   - 用上下文对象ctx调用eval函数执行js文件中的指定函数即可
-
-    - ```python
-      result = ctx.eval('getPwd("123456")')
-      ```
-
-```py	
+- 示例
+```python
+# 导包
 import execjs
-
+# 创建node对象
 node = execjs.get()
-
-fp = open('test.js', 'r', encoding='utf-8')
-ctx = node.compile(fp.read())
-
-result = ctx.eval('getPwd("123456")')
-
+# 编译js文件返回上下文ctx对象
+with open('test.js', 'r', encoding='utf-8') as f:
+  js_code = f.read()
+ctx = node.compile(js_code)
+# 用上下文对象ctx调用eval函数执行js文件中的指定函数即可
+result = ctx.eval('getPwd()', "123456")
+# 输出
 print(result)
 ```
 
