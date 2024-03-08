@@ -1,6 +1,6 @@
 ---
 title: Jenkins 自动化部署
-date: 2024年3月4日 13:00:00
+date: 2024-3-4 13:00:00
 updated: 2024-3-5 16:39:41
 categories: "教程"
 tags: 

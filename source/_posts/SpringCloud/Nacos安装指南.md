@@ -1,6 +1,6 @@
 ---
 title: Nacos 安装指南
-date: 2023年5月25日19:53:03
+date: 2023-5-25 19:53:03
 updated: 2024-1-23 16:00:00
 categories: "教程"
 tags: 
