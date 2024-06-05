@@ -1,4 +1,4 @@
-```
+---
 title: Redis
 date: 2024-6-4
 updated: 2024-6-4
@@ -6,7 +6,7 @@ categories: "面试"
 tags: 
 	- "Redis"
 	- "八股文"
-```
+---
 
 # Redis开篇
 
