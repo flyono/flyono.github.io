@@ -668,9 +668,9 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
+      icon: fab fa-gitee
       text: GitHub
-      link: https://github.com/xxxxxx
+      link: https://gitee.com/flyonee
   card_announcement:
     enable: true
     content: 2022年11月27日 更新了我的每日计划
