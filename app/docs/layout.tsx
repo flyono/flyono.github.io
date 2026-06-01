@@ -6,23 +6,17 @@ import { Component, FileText, Ghost } from 'lucide-react';
 
 const docsTabs: LayoutTab[] = [
   {
-    title: 'Blog',
-    description: 'Flyono\'s Blog',
+    title: 'Godot 笔记',
+    description: 'Godot\'s Docs',
     url: '/docs',
     icon: <Ghost />,
   },
   {
-    title: '组件示例',
-    description: 'Fumadocs 组件演示',
-    url: '/docs/test',
+    title: 'Godot TODOs',
+    description: '学习 Godot TODO',
+    url: '/docs/todos',
     icon: <Component />,
-  },
-  {
-    title: '测试页面',
-    description: '额外文档页面',
-    url: '/docs/test1',
-    icon: <FileText />,
-  },
+  }
 ];
 
 export default function Layout({ children }: LayoutProps<'/docs'>) {
