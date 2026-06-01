@@ -1,10 +1,12 @@
+import { ArrowRight } from 'lucide-react';
 import type { Post } from './types';
 
 interface Props {
   posts: Post[];
+  viewAllHref?: string;
 }
 
-export function RecentPosts({ posts }: Props) {
+export function RecentPosts({ posts, viewAllHref }: Props) {
   return (
     <section className="space-y-4 animate-fade-in-up delay-250">
       <h2 className="font-serif text-lg text-stone-800 dark:text-stone-200 text-center">
@@ -15,6 +17,17 @@ export function RecentPosts({ posts }: Props) {
           <PostItem key={post.title} post={post} />
         ))}
       </ul>
+      {viewAllHref && (
+        <div className="flex justify-center pt-2">
+          <a
+            href={viewAllHref}
+            className="group inline-flex items-center gap-1.5 text-xs text-stone-400 dark:text-stone-500 hover:text-stone-700 dark:hover:text-stone-300 transition-colors duration-200"
+          >
+            查看全部文档
+            <ArrowRight className="w-3 h-3 transition-transform duration-200 group-hover:translate-x-0.5" />
+          </a>
+        </div>
+      )}
     </section>
   );
 }
