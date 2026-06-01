@@ -1,0 +1,10 @@
+{
+  "title": "文档",
+  "pages": [
+    "index",
+    "---Godot 基础---",
+    "...Basic",
+    "---GDScript---",
+    "...gdscript"
+  ]
+}
