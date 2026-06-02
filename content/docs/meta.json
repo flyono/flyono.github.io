@@ -3,8 +3,10 @@
   "pages": [
     "index",
     "---Godot 基础---",
-    "...Basic",
-    "---GDScript---",
-    "...gdscript"
+    "Basic",
+    "---Godot 进阶---",
+    "gdscript",
+    "input",
+    "physics"
   ]
 }
