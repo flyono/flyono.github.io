@@ -13,8 +13,8 @@ const techStack = ['Godot', 'Java', 'C#', 'Shader', 'React'];
 
 const links: NavLink[] = [
   { icon: GitFork, href: 'https://github.com/flyono', label: 'GitHub' },
-  { icon: Globe, href: 'https://flyono.dev', label: 'Website' },
-  { icon: Mail, href: 'mailto:hi@flyono.dev', label: 'Email' },
+  { icon: Globe, href: 'https://flyono.github.io', label: 'Website' },
+  { icon: Mail, href: 'mailto:hi@1508948470@qq.com', label: 'Email' },
 ];
 
 function getRecentPosts() {

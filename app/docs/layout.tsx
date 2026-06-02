@@ -2,14 +2,15 @@ import { baseOptions } from '@/lib/layout.shared';
 import { source } from '@/lib/source';
 import { DocsLayout } from 'fumadocs-ui/layouts/docs';
 import type { LayoutTab } from 'fumadocs-ui/layouts/shared';
-import { Component, FileText, Ghost } from 'lucide-react';
+import { Component } from 'lucide-react';
+import { GodotIcon } from '@/components/icons';
 
 const docsTabs: LayoutTab[] = [
   {
     title: 'Godot 笔记',
     description: 'Godot\'s Docs',
     url: '/docs',
-    icon: <Ghost />,
+    icon: <GodotIcon strokeWidth={1} />,
   },
   {
     title: 'Godot TODOs',

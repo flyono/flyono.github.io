@@ -13,6 +13,12 @@ export default function Layout({ children }: LayoutProps<'/'>) {
           url: '/blogs',
           secondary: false,
         },
+        {
+          icon: <BookIcon />,
+          text: 'Docs',
+          url: '/docs',
+          secondary: false,
+        }
       ]}
     >
       {children}
