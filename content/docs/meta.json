@@ -7,6 +7,8 @@
     "---Godot 进阶---",
     "gdscript",
     "input",
-    "physics"
+    "physics",
+    "---Godot Animation---",
+    "animation"
   ]
 }
