@@ -9,6 +9,8 @@
     "input",
     "physics",
     "---Godot Animation---",
-    "animation"
+    "animation",
+    "---Godot UI---",
+    "ui"
   ]
 }
