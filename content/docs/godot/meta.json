@@ -1,7 +1,8 @@
 {
   "root": true,
-  "title": "Godot 笔记",
+  "title": "Godot",
   "description": "Godot's Docs",
+  "icon": "Gamepad2",
   "pages": [
     "index",
     "---Godot 基础---",

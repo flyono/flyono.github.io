@@ -2,6 +2,7 @@
   "root": true,
   "title": "Unity",
   "description": "Unity 学习相关文档",
+  "icon": "Component",
   "pages": [
     "index"
   ]
