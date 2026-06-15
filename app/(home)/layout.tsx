@@ -15,8 +15,8 @@ export default function Layout({ children }: LayoutProps<'/'>) {
         },
         {
           icon: <BookIcon />,
-          text: 'Docs',
-          url: '/docs',
+          text: 'Documentation',
+          url: '/docs/godot',
           secondary: false,
         }
       ]}

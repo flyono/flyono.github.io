@@ -9,13 +9,13 @@ const docsTabs: LayoutTab[] = [
   {
     title: 'Godot 笔记',
     description: 'Godot\'s Docs',
-    url: '/docs',
+    url: '/docs/godot',
     icon: <GodotIcon strokeWidth={1} />,
   },
   {
-    title: 'Godot TODOs',
-    description: '学习 Godot TODO',
-    url: '/docs/todos',
+    title: 'Unity',
+    description: 'Unity 学习相关文档',
+    url: '/docs/unity',
     icon: <Component />,
   }
 ];

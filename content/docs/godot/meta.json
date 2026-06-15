@@ -1,5 +1,7 @@
 {
-  "title": "文档",
+  "root": true,
+  "title": "Godot 笔记",
+  "description": "Godot's Docs",
   "pages": [
     "index",
     "---Godot 基础---",
