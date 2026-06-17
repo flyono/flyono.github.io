@@ -68,7 +68,7 @@ public class ObjectController : MonoBehaviour
 }
 ```
 
-### GetComponent<T>()
+### `GetComponent<T>()`
 
 获取连接到同一 `GameObject` 的指定类型组件 `T` 的引用。在 Unity 面向组件的设计中，这是与其他组件进行通信的最基本方法。
 
