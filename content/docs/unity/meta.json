@@ -6,6 +6,8 @@
   "pages": [
     "index",
     "---Unity 基础---",
-    "Basic"
+    "Basic",
+    "---Unity 脚本",
+    "Scripts"
   ]
 }
