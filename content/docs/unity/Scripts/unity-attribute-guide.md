@@ -61,7 +61,7 @@ public float tempValue;
 
 ### Header: 显示标题
 
-```C#
+```c#
 [Header("Movement Settings")]
 [SerializeField] private float moveSpeed = 5.0f;
 [SerializeField] private float jumpForce = 10.0f;
@@ -72,14 +72,14 @@ public float tempValue;
 
 ### Tooltip: 显示工具提示
 
-```C#
+```c#
 [Tooltip("Movement speed (units: m/s)")]
 [SerializeField] private float moveSpeed = 5.0f;
 ```
 
 ### Range: 显示滑块
 
-```C#
+```c#
 [Range(0, 100)]
 [SerializeField] private float volume = 50.0f;
 ```
@@ -88,14 +88,14 @@ public float tempValue;
 
 ### Min: 设置最小值
 
-```C#
+```c#
 [Min(0)]
 [SerializeField] private float health = 100.0f;
 ```
 
 ### Space: 添加间距
 
-```C#
+```c#
 [SerializeField] private float moveSpeed = 5.0f;
 [Space(20)]
 [SerializeField] private float attackPower = 20.0f;
@@ -103,7 +103,7 @@ public float tempValue;
 
 ### TextArea: 多行文本输入
 
-```C#
+```c#
 [TextArea(3, 10)]
 [SerializeField] private string description;
 ```
@@ -112,7 +112,7 @@ public float tempValue;
 
 ### ContextMenu: 在 Inspector 中添加方法
 
-```C#
+```c#
 [ContextMenu("Restore Full Health")]
 private void ResetHealth()
 {
@@ -127,7 +127,7 @@ private void ResetHealth()
 
 > 重要：使用 `[MenuItem]` 的脚本必须放在 `Editor` 文件夹内。 `UnityEditor` 命名空间仅限编辑器使用，因此将其放在编辑器文件夹之外会导致编译错误。
 
-```C#
+```c#
 // Editor/MyEditorTools.cs
 using UnityEditor;
 using UnityEngine;
@@ -144,7 +144,7 @@ public class MyEditorTools
 
 ### RuntimeInitializeOnLoadMethod: 游戏启动时初始化
 
-```C#
+```c#
 using UnityEngine;
 
 public class GameInitializer
@@ -163,7 +163,7 @@ public class GameInitializer
 
 ### RequireComponent: 指定所需组件
 
-```C#
+```c#
 [RequireComponent(typeof(Rigidbody))]
 public class PlayerController : MonoBehaviour
 {
@@ -180,7 +180,7 @@ public class PlayerController : MonoBehaviour
 
 ### DisallowMultipleComponent: 防止重复组件
 
-```C#
+```c#
 [DisallowMultipleComponent]
 public class GameManager : MonoBehaviour
 {
@@ -189,7 +189,7 @@ public class GameManager : MonoBehaviour
 
 ### ExecuteAlways: 在编辑器下(始终)运行
 
-```C#
+```c#
 [ExecuteAlways]
 public class GridGenerator : MonoBehaviour
 {
@@ -215,7 +215,7 @@ public class GridGenerator : MonoBehaviour
 
 ### CreateAssetMenu: 添加可脚本对象创建菜单
 
-```C#
+```c#
 [CreateAssetMenu(fileName = "NewWeapon", menuName = "MyGame/Weapon")]
 public class WeaponData : ScriptableObject
 {
@@ -230,7 +230,7 @@ public class WeaponData : ScriptableObject
 
 要在检查器中显示自定义类（不继承自 MonoBehaviour 或 `ScriptableObject`），需要 `[Serializable]`.
 
-```C#
+```c#
 [System.Serializable]
 public class EnemyData
 {
@@ -249,7 +249,7 @@ public class EnemySpawner : MonoBehaviour
 
 允许在基类或接口字段中保存派生类的实例。
 
-```C#
+```c#
 public interface ISkill
 {
     void Execute();
@@ -281,7 +281,7 @@ public class Player : MonoBehaviour
 
 要创建影响检查器的自定义特性，请继承 `PropertyAttribute`。
 
-```C#
+```c#
 using UnityEngine;
 
 [System.AttributeUsage(System.AttributeTargets.Field)]
@@ -304,7 +304,7 @@ Assets/
     └── ReadOnlyDrawer.cs       // PropertyDrawer (inside Editor folder)
 ```
 
-```C#
+```c#
 // Editor/ReadOnlyDrawer.cs
 using UnityEditor;
 using UnityEngine;
@@ -325,7 +325,7 @@ public class ReadOnlyDrawer : PropertyDrawer
 
 ## 实例
 
-```C#
+```c#
 using UnityEngine;
 
 [RequireComponent(typeof(Rigidbody))]

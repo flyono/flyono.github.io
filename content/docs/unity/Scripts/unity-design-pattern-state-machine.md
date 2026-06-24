@@ -8,7 +8,7 @@ created: 2026-06-23T14:20:00
 
 玩家角色和敌方 AI 会根据游戏情况呈现不同的“状态”。敌方 AI 会在“巡逻状态”、“追击玩家状态”、“攻击状态”、“待机状态”、“逃跑状态”等之间切换。如果在一个庞大的 Update方法中使用嵌套的 `if-else` 或 `switch` 语句来实现这些状态转换，很快就会变得非常复杂，并且使得添加新状态或修改行为变得极其困难。
 
-```C#
+```c#
 // Bad example: Giant Update method
 // 反面示例：臃肿的更新方法
 void Update()
@@ -64,7 +64,7 @@ void Update()
 
 首先，将接口定义为所有状态类的蓝图。
 
-```C#
+```c#
 // IState.cs
 public interface IState
 {
@@ -86,7 +86,7 @@ public interface IState
 
 接下来，创建特定的状态类。每个状态类处理自身的逻辑，并检查转换到其他状态的条件。
 
-```C#
+```c#
 // PatrolState.cs
 using UnityEngine;
 
@@ -122,7 +122,7 @@ public class PatrolState : IState
 }
 ```
 
-```C#
+```c#
 // ChaseState.cs
 using UnityEngine;
 
@@ -164,7 +164,7 @@ public class ChaseState : IState
 
 最后，实现用于管理状态的 `EnemyAI` 类。它保存当前状态，并将`Update`处理委托给当前状态对象。
 
-```C#
+```c#
 // EnemyAI.cs
 using UnityEngine;
 

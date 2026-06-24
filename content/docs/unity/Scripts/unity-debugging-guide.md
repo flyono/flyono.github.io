@@ -15,7 +15,7 @@ Unity 提供了多种强大的调试工具。本文涵盖了每个初学者都�
 `Debug.Log()`会将指定的消息输出到 Unity 编辑器的控制台窗口。这是确认特定代码段是否执行以及检查该处变量值的最简单有效的方法。`
 
 
-```C#
+```c#
 using UnityEngine;
 
 public class DebugExample : MonoBehaviour
@@ -68,7 +68,7 @@ Debug类针对不同的消息严重级别有不同的变体：
 - `GetComponent<T>()`尝试获取一个实际上并未附加的组件。
 - 应该在检查器中设置的 `public` 变量为空。
 
-```C#
+```c#
 // Example: Trying to access Rigidbody that isn't attached
 // 示例：尝试访问未挂载的刚体组件
 public class NullRefExample : MonoBehaviour

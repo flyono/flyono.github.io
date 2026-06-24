@@ -22,7 +22,7 @@ created: 2026-06-22T18:04:00
 
 **委托**本质上是 `可以保存方法引用的类型`. 它类似于 C/C++ 的函数指针，但更安全、更面向对象。委托允许你像传递变量一样传递方法，将它们传递给其他方法，或者将它们存储在类字段中。
 
-```C#
+```c#
 // First, define the delegate "type"
 // 首先，定义委托“类型”
 // This defines "a method type with void return and one int parameter"
@@ -67,7 +67,7 @@ public class DelegateExample
 
 `PlayerHealth` 会将伤害和死亡作为事件通知玩家。该类不涉及用户界面或音频。
 
-```C#
+```c#
 using System;
 using UnityEngine;
 
@@ -113,7 +113,7 @@ public class PlayerHealth : MonoBehaviour
 
 `UIManager` 和 `AudioManager` 订阅 `PlayerHealth` 事件，并在收到通知时执行各自的处理。
 
-```C#
+```c#
 // UIManager.cs
 using UnityEngine;
 using UnityEngine.UI; // Required for Text
@@ -147,7 +147,7 @@ public class UIManager : MonoBehaviour
 }
 ```
 
-```C#
+```c#
 // AudioManager.cs
 public class AudioManager : MonoBehaviour
 {

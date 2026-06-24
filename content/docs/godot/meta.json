@@ -11,11 +11,9 @@
     "gdscript",
     "input",
     "physics",
-    "---Godot Animation---",
     "animation",
-    "---Godot UI---",
-    "ui",
-    "---渲染---",
+    "UI",
+    "---Godot 渲染---",
     "rendering"
   ]
 }

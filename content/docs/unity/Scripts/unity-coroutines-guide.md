@@ -28,7 +28,7 @@ created: 2026-06-18T17:16:00
 
 最基本的用法是等待指定时间后再继续。使用 `yield return new WaitForSeconds(float seconds)`
 
-```C#
+```c#
 using System.Collections;
 using UnityEngine;
 
@@ -72,7 +72,7 @@ public class CoroutineExample : MonoBehaviour
 
 `yield return null;`  通常用于拆分高负载处理任务
 
-```C#
+```c#
 IEnumerator HeavyProcess()
 {
     for (int i = 0; i < 10000; i++)
@@ -97,7 +97,7 @@ IEnumerator HeavyProcess()
 
 已启动的例行程序可以在执行过程中停止。要停止一个例程，可将 `StartCoroutine`的返回值保存在 `Coroutine` 变量中，并将其传递给 `StopCoroutine`
 
-```C#
+```c#
 using System.Collections;
 using UnityEngine;
 
