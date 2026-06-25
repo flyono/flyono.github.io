@@ -25,7 +25,7 @@ Camera2D 节点自带一个标准的 `position_smoothing_enabled` 属性。只�
 
 为了更精细地控制跟随速度，或者当标准平滑处理无法产生令人满意的结果时，可以使用 GDScript 的 `lerp`(线性插值)函数。
 
-```gdscript
+```GDScript
 # Script attached to Camera2D
 extends Camera2D
 
