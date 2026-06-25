@@ -1,6 +1,6 @@
 ---
 title: 屏幕阅读
-description:
+description: 屏幕阅读 Shader
 created: 2026-06-25T15:41:00
 ---
 ```gdshader

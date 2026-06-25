@@ -1,6 +1,6 @@
 ---
 title: 遮罩
-description:
+description: 遮罩 Shader
 created: 2026-06-25T15:41:00
 ---
 ```gdshader

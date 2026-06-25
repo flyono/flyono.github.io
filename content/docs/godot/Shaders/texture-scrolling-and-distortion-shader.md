@@ -1,6 +1,6 @@
 ---
 title: 纹理滚动 + 扭曲
-description:
+description: 纹理滚动 + 扭曲 Shader
 created: 2026-06-25T15:41:00
 ---
 ## 纹理滚动
