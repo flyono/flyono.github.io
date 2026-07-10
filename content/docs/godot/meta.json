@@ -16,6 +16,10 @@
     "---Godot 渲染---",
     "rendering",
     "---Godot Shader---",
-    "Shaders"
+    "Shaders",
+    "---Godot Audio---",
+    "audio",
+    "---Godot Navigation---",
+    "navigation"
   ]
 }
