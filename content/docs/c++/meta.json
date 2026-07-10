@@ -1,0 +1,9 @@
+{
+  "root": true,
+  "title": "C++",
+  "description": "C++ 学习之路",
+  "icon": "Component",
+  "pages": [
+    "index"
+  ]
+}
