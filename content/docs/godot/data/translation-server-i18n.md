@@ -18,7 +18,7 @@ created: 2026-08-11T11:40:16
 
 为什么这个间接引用很重要？如果你在代码中写字面字符串，添加一种语言意味着重写代码。当有三种或五种语言时，需要修改的地方会急剧增加，并成为错误的一个来源。通过一个键，你可以添加语言而不需要触碰任何代码。
 
-```script
+```gdscript
 
 # The calling code never changes. Only the returned text varies by language
 tr("START_GAME")  # ja -> "ゲームスタート" / en -> "Start Game" / ko -> "게임 시작"

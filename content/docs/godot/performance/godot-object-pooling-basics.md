@@ -1,5 +1,5 @@
 ---
-title: 对象池完全指南: 通过复用消除 Godot 中的卡顿
+title: "对象池完全指南: 通过复用消除 Godot 中的卡顿"
 description: 用对象池消除 Godot 中 instantiate / queue_free 造成的瞬时卡顿。说明复用循环、_ready() 不会再次调用的陷阱、如何彻底停掉处理和碰撞，以及子弹池的实现与是否该引入对象池的判断。
 created: 2026-08-18T18:18:00
 ---

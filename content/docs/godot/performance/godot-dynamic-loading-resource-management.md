@@ -1,5 +1,5 @@
 ---
-title: Godot 中的动态加载与资源管理: load、preload 与后台加载
+title: "Godot 中的动态加载与资源管理: load、preload 与后台加载"
 description: 在 Godot 中选择 preload() 与 load()，用 ResourceLoader 做异步后台加载，搭带进度条的加载画面，以及用 WeakRef 做软缓存管理内存。
 created: 2026-08-18T18:20:00
 ---

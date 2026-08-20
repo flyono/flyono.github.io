@@ -1,5 +1,5 @@
 ---
-title: 为每个平台构建 Godot 项目: 导出设置完全指南
+title: "为每个平台构建 Godot 项目: 导出设置完全指南"
 description: 把 Godot 项目可靠导出到 Windows、macOS、Android 和 Web。说明导出模板与 PCK、首次导出步骤、大小写敏感与 Web 头这类陷阱、体积优化，以及发售前检查清单。
 created: 2026-08-18T18:23:00
 ---
