@@ -1,7 +1,7 @@
 ---
 title: 渲染模式
 description: Godot内置功能
-created:
+created: 2026-06-26T09:39:21
 ---
 ```gdshader
 shader_type spatial;
