@@ -16,10 +16,19 @@
     "---Godot 渲染---",
     "rendering",
     "---Godot Shader---",
-    "Shaders",
+    "Shaders/CanvasItem",
+    "Shaders/Spatial",
     "---Godot Audio---",
     "audio",
     "---Godot Navigation---",
-    "navigation"
+    "navigation",
+    "---Godot Scene---",
+    "scene",
+    "---Godot Data",
+    "data",
+    "---Godot Performance---",
+    "performance",
+    "---Godot Build",
+    "build"
   ]
 }
